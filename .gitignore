@@ -1,0 +1,44 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+
+# Arduino
+*.ino.*
+*.elf
+*.hex
+*.bin
+*.eep
+*.dmp
+*.map
+*.srec
+*.lst
+*.obj
+*.log
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Node
+node_modules/
+
+# Others
+.idea/
+*.iml
